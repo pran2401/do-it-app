@@ -1,0 +1,12 @@
+2024-07-07 23:27:56,961 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-07 23:28:28,130 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pranav:todoapp:0.0.1-SNAPSHOT @ C:\Users\prana\OneDrive\Desktop\proj\todoapp\todoapp\pom.xml.
+2024-07-07 23:28:29,183 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /todoapp/src/main/java
+2024-07-07 23:28:29,187 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /todoapp/src/main/resources
+2024-07-07 23:28:29,188 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /todoapp/src/main/resources
+2024-07-07 23:28:29,189 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /todoapp/src/test/java
+2024-07-07 23:28:29,191 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /todoapp/src/test/resources
+2024-07-07 23:28:29,191 [Worker-5: Importing Maven projects] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-22', falling back to workspace default
+2024-07-07 23:28:29,561 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2024-07-07 23:28:30,490 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-07 23:28:30,523 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-07-07 23:28:30,538 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\prana\OneDrive\Desktop\proj\todoapp\todoapp\src\test\resources
